@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&family=Syne:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Syne', sans-serif;
+}
+
+:root {
+    --primary-color:#5F4CDD;
+}
+
+
+/* Headline & Desc start */
+
+.primary-head {
+    font-weight: 700;
+    font-size: 4.1rem;
+    line-height: 4.5rem;
+    color: #000000;
+}
+
+.primary-desc {
+    font-weight: 300;
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+    color: #000000;
+}
+
+.secondary-head {
+    font-weight: 900;
+    font-size: 2.5rem;
+    letter-spacing: normal;
+    line-height: 2.5rem;
+    color: #000000;
+}
+
+.accent-text {
+    font-size: 1rem;
+    line-height: 1.4rem;
+    letter-spacing: -1px;
+    font-weight: 900;
+}
+
+
+/* Headline & Desc end */

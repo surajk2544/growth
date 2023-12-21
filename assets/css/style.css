@@ -1,1 +1,69 @@
-s
+
+
+.hero-box-img {
+    border-radius: 90px;
+    padding: 40px 50px;
+}
+
+
+/* headlines & images end */
+
+.box {
+    padding: 40px 50px;
+    background-color: #F7F7FA;
+    border-radius: 40px;
+}
+
+.box-2 {
+    padding: 60px 80px;
+    background-color: #e9e5ff;
+    border-radius: 40px;
+}
+
+.main-hero {
+    background: rgb(233,229,255);
+    background: linear-gradient(180deg, rgba(233,229,255,1) 35%, rgba(247,247,250,1) 81%, rgba(255,255,255,1) 100%);
+}
+
+
+
+
+
+
+
+
+/* Footer Style start */
+.footer-head {
+    font-size: 3rem;
+    line-height: 3.3rem;
+    font-weight: 700;
+}
+
+/* Footer Style End */
+
+
+
+
+
+
+/* award-logo-box & img start  */
+
+.awards-box-shadow {
+    padding: 40px 80px;
+    background-color: #e9e5ff;
+    border-radius: 20px;
+}
+
+
+.award-logo-box {
+    padding: 50px;
+    border-radius: 20px;
+    background-color: #f7f7fa;
+    text-align: center;
+}
+
+.logo-img {
+    width: 200px;
+    height: 200px;
+}
+/* award-logo-box & img end  */
